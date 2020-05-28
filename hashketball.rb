@@ -101,14 +101,14 @@ def game_hash
         :slam_dunks => 0
       }, 
       "Kemba Walker" => {
-        :number => ,
-        :shoe => ,
-        :points => ,
-        :rebounds => ,
-        :assists => ,
-        :steals => ,
-        :blocks => ,
-        :slam_dunks =>
+        :number => 33,
+        :shoe => 15,
+        :points => 6,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 7,
+        :blocks => 5,
+        :slam_dunks => 12
       }
       ]
   }
